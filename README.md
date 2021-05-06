@@ -70,3 +70,6 @@ VSCodeでJavaのフォーマッターを指定する箇所があるのですが�
 ## フォーマッタの XML ファイルの例
 
 このリポジトリの以下の XML ファイルを参考にしてください
+
+java-boot-camp-style.xml
+https://github.com/fs5013-furi-sutao/apply-formatter-file-to-vscode/blob/main/java-boot-camp-style.xml
